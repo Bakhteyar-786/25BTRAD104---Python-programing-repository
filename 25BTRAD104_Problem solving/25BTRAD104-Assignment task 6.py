@@ -1,0 +1,1 @@
+print("Bakhteyar\t20\tBangalore")
